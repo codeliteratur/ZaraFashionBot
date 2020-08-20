@@ -1,5 +1,7 @@
-# ZaraFashionBot
-This is a simple bot project for a ChatBot developer portfolio.
+# Simple Chatbot in Python (using NLTK)
+
+![Alt text]()
+
 History of chatbots dates back to 1966 when a computer program called ELIZA was invented by Weizenbaum. It imitated the language of a psychotherapist from only 200 lines of code.
 
 On similar lines let's create a very basic chatbot utlising the Python's NLTK library.It's a very simple bot with hardly any cognitive skills,but still a good way to get into NLP and get to know about chatbots.
@@ -34,10 +36,11 @@ nltk.download('popular', quiet=True) # for downloading popular packages
 nltk.download('punkt') 
 nltk.download('wordnet') 
 ```
-## How to run
-* Jupyter Notebook [![Binder]
 
-You can run the (https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
+## How to run
+* Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/master)
+
+You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
 * Through Terminal
 ```
 python chatbot.py
