@@ -43,3 +43,5 @@ You can run the [ZaraBot.ipynb](https://github.com/codeliteratur/ZaraFashionBot/
 ```
 python zara.py
 ```
+Initiate the conversation with any greeting as hi, hey, Hi zara etc
+You can ask the chatbot questions related to the content in https://en.wikipedia.org/wiki/Zara_(retailer).
