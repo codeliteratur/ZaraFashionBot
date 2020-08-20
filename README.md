@@ -36,9 +36,9 @@ nltk.download('wordnet')
 ```
 
 ## How to run
-* Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)]
+* Jupyter Notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/codeliteratur/ZaraFashionBot/d01ed44db192328f8c56594aacce86757e9794f8?filepath=ZaraBot.ipynb)
 
-You can run the [ZaraBot.ipynb](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK/blob/master/Chatbot.ipynb) which also includes step by step instructions.
+You can run the [ZaraBot.ipynb](https://github.com/codeliteratur/ZaraFashionBot/blob/master/ZaraBot.ipynb) which also includes step by step instructions.
 * Through Terminal
 ```
 python zara.py
