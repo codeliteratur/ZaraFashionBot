@@ -1,5 +1,5 @@
 
-#I'm Zara. Your virtual fashion consultant!
+#I'm Zara. Your virtual fashion consultant of fast fashion retailer Zara!
 
 #import required packages & libraries
 import io
